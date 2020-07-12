@@ -22,10 +22,11 @@
     I am a CSE Junior at the <a href="https://vit.ac.in/"> <b>Vellore Institute of Technology, Vellore Campus</b></a>.<br>
     Design Enthusiast | Front-End | A.I Enthusiast | Keen on Blockchain Technology | Hobbies include History, Poetry, Philosophy & Psychology.<br>
     Just some music | a cup of coffee | a good movie | a good book | And who knows? <br>
-    Thanks for visiting. Do check my website...https://nitinr2510.github.io/
+    Thanks for visiting. Do check my website -> https://nitinr2510.github.io/<br>
+    Always out for adventure...
    </em>  
 </p>
 <img src="https://github.com/NitinR2510/NitinR2510/blob/master/img/calvin-hobbes-downunder.jpg?raw=true" width="600px">
 <b><em>Signing off, </em></b>
-**NitinR2510**<br>
+<b>Nitin</b><br>
 Scroll down for projects <img src="https://github.com/NitinR2510/NitinR2510/blob/master/img/down.png?raw=true" width="50px">
