@@ -29,4 +29,3 @@
 <img src="https://github.com/NitinR2510/NitinR2510/blob/master/img/calvin-hobbes-downunder.jpg?raw=true" width="600px">
 <b><em>Signing off, </em></b>
 <b>Nitin</b><br>
-Scroll down for projects <img src="https://github.com/NitinR2510/NitinR2510/blob/master/img/down.png?raw=true" width="50px">
