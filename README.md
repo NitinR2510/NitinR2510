@@ -1,7 +1,7 @@
 ![header image for readme file](https://github.com/NitinR2510/AboutMe/blob/master/main.png?raw=true)
 
 ## Hey, Everyone! <img src="https://github.com/NitinR2510/NitinR2510/blob/master/img/calvin.gif?raw=true" width="100px"> 
-## <img src="https://github.com/NitinR2510/NitinR2510/blob/master/img/calvin-and-hobbes-clipart-free-3.png?raw=true" width="90px"> こんいちは      
+## <img src="https://github.com/NitinR2510/NitinR2510/blob/master/img/calvin-and-hobbes-clipart-free-3.png?raw=true" width="90px"> こんにちは！     
 <a href="https://in.linkedin.com/in/nitin-ranjan-here">
     <img align="left" alt="Nitin Ranjan | Linkedin" width="24px" src="https://github.com/NitinR2510/NitinR2510/blob/master/img/linkedin.jpg?raw=true" />
   </a>
