@@ -19,7 +19,7 @@
 
 <p>
   <em>
-    I am a CSE Junior at the <a href="https://vit.ac.in/"> <b>Vellore Institute of Technology, Vellore Campus</b></a>.<br>
+    I am a CSE senior at the <a href="https://vit.ac.in/"> <b>Vellore Institute of Technology, Vellore Campus</b></a>.<br>
     Design Enthusiast | Front-End | A.I Enthusiast | Keen on Blockchain Technology | Hobbies include History, Poetry, Philosophy & Psychology.<br>
     Just some music | a cup of coffee | a good movie | a good book | And who knows? <br>
     Thanks for visiting. Do check my website -> https://nitinr2510.github.io/<br>
