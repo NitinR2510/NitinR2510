@@ -20,6 +20,7 @@
 <p>
   <em>
     I am a Tech Analyst at Fiserv Global Services.
+      <br>
     A good design is pleasing | A good book is interesting | Technology is always evolving 
     <br>
     Just some music | a cup of coffee | a good movie | a good book | And who knows? <br>
