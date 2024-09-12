@@ -19,7 +19,7 @@
 
 <p>
   <em>
-    I am a Tech Analyst at Fiserv Global Services.
+    I am a Software Professional at Fiserv Global Services.
       <br>
     A good design is pleasing | A good book is interesting | Technology is always evolving 
     <br>
