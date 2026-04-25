@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nitin Ranjan | About</title>
+    <meta
+      name="description"
+      content="A fresh single-page personal profile for Nitin Ranjan."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero__content container">
+        <p class="kicker">Hey, everyone 👋</p>
+        <h1>Nitin Ranjan</h1>
+        <p class="subtitle">
+          Software Professional at Fiserv Global Services<br />
+          Design enthusiast • Avid reader • Lifelong technologist
+        </p>
+
+        <div class="chip-row" aria-label="Quick highlights">
+          <span class="chip">こんにちは!</span>
+          <span class="chip">Always out for adventure</span>
+          <span class="chip">Coffee + Music + Movies + Books</span>
+        </div>
+
+        <nav class="socials" aria-label="Social links">
+          <a href="https://in.linkedin.com/in/nitin-ranjan-here" target="_blank" rel="noopener noreferrer">
+            <img src="img/linkedin.jpg" alt="LinkedIn" /> LinkedIn
+          </a>
+          <a href="https://felicityflows.blogspot.com" target="_blank" rel="noopener noreferrer">
+            <img src="img/blogger.png" alt="Blogger" /> Blog
+          </a>
+          <a href="https://twitter.com/AgainNitinR" target="_blank" rel="noopener noreferrer">
+            <img src="img/Twitter_Bird.svg.png" alt="Twitter" /> Twitter
+          </a>
+          <a href="mailto:nitin.ranjan2510@gmail.com">
+            <img src="img/gmail.png" alt="Gmail" /> Email
+          </a>
+        </nav>
+      </div>
+
+      <div class="hero__art" aria-hidden="true">
+        <img src="img/calvin.gif" alt="" class="floating-one" />
+        <img src="img/earth.gif" alt="" class="floating-two" />
+      </div>
+    </header>
+
+    <main class="container stack">
+      <section class="card about" id="about">
+        <h2>Hello world 🌍</h2>
+        <p>
+          A good design is pleasing. A good book is interesting. Technology is always evolving.
+          This page is a fresh single-page redesign that brings all profile information into one
+          clear, modern layout.
+        </p>
+        <p>
+          Thanks for visiting. Do check the website:
+          <a href="https://nitinr2510.github.io/" target="_blank" rel="noopener noreferrer">nitinr2510.github.io</a>
+        </p>
+      </section>
+
+      <section class="card grid two-col" id="highlights">
+        <div>
+          <h3>What I enjoy</h3>
+          <ul>
+            <li>Building meaningful software experiences</li>
+            <li>Exploring design and clean interfaces</li>
+            <li>Reading, music, and thoughtful conversations</li>
+            <li>Good coffee and new adventures</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Personal vibe</h3>
+          <p>
+            Curious, creative, and future-focused. I enjoy crafting experiences that are useful,
+            beautiful, and simple.
+          </p>
+          <p><strong>Signing off,</strong><br />Nitin</p>
+        </div>
+      </section>
+
+      <section class="card gallery" id="gallery">
+        <h3>Visual corner</h3>
+        <div class="image-grid">
+          <img src="main.png" alt="Header artwork" />
+          <img src="img/calvin-and-hobbes-clipart-free-3.png" alt="Calvin and Hobbes art" />
+          <img src="img/calvin-hobbes-downunder.jpg" alt="Calvin and Hobbes downunder" />
+        </div>
+      </section>
+    </main>
+
+    <footer class="container footer">
+      <p>© <span id="year"></span> Nitin Ranjan • Crafted as a single-page profile</p>
+    </footer>
+
+    <script>
+      document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
+  </body>
+</html>
