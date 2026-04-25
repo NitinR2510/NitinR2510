@@ -1,4 +1,6 @@
-![header image for readme file](https://github.com/NitinR2510/AboutMe/blob/master/main.png?raw=true)
+<!--![header image for readme file](https://github.com/NitinR2510/AboutMe/blob/master/main.png?raw=true)-->
+
+<img src = "https://github.com/NitinR2510/NitinR2510/blob/master/img/nitin_ranjan.png?raw=true">
 
 ## Hey, Everyone! <img src="https://github.com/NitinR2510/NitinR2510/blob/master/img/calvin.gif?raw=true" width="100px"> 
 ## <img src="https://github.com/NitinR2510/NitinR2510/blob/master/img/calvin-and-hobbes-clipart-free-3.png?raw=true" width="90px"> こんにちは！     
@@ -19,9 +21,7 @@
 
 <p>
   <em>
-    I am a Software Professional at Fiserv Global Services.
-      <br>
-    A good design is pleasing | A good book is interesting | Technology is always evolving 
+    I am a Software Professional - II at Fiserv Global Services.
     <br>
     Just some music | a cup of coffee | a good movie | a good book | And who knows? <br>
     Thanks for visiting. Do check my website -> https://nitinr2510.github.io/<br>
