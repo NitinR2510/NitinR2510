@@ -45,4 +45,4 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.MY_ACCESS_TOKEN2 }}
